@@ -16,14 +16,12 @@
 	width: 100%;
 	padding: 1em;
 	margin: 0 0 20px 0;
-
 }
 
 #title {
 	padding: 20px 0 0 0;
 	margin: 0 0 -10px 0;
-
-
+	font-size: 40px;
 }
 
 #img-div {
@@ -33,9 +31,9 @@
 #img-caption {
 	width: 100%;
 	text-align: left;
-	margin: 10px 0 0 10px;
+	margin: 15px 0 0 30px;
 	font-style: italic;
-	overflow: hidden;
+
 }
 
 #image {
@@ -80,9 +78,14 @@ li {
 #quote {
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
-	line-height: 1;
+	line-height: 1.5;
 	font-size: .9em;
 }
+
+a {
+	color: black;
+}
+
 
 #footer {
 	width: 80%;
@@ -90,4 +93,5 @@ li {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	margin: 0 auto 50px auto;
+	color: rgb(36, 33, 33)
 }
